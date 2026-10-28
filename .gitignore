@@ -1,7 +1,8 @@
-.env
 
 logs/
 
 borradores/
 
 node_modules/
+
+.env
