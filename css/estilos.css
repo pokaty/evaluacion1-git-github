@@ -47,3 +47,46 @@ section {
   background: #0b3d2e;
   color: #fff;
 }
+
+
+/* Estilos de las historias de usuario */
+#agenda,
+#inscripcion,
+#ubicacion {
+  background: #f4f8f5;
+  border-bottom: 1px solid #d5e3d9;
+}
+
+section h2 {
+  margin-bottom: 1rem;
+  color: #0b3d2e;
+}
+
+#agenda ul {
+  padding-left: 1.5rem;
+}
+
+#agenda li {
+  margin-bottom: 0.5rem;
+}
+
+#inscripcion p,
+#ubicacion p {
+  margin-bottom: 1rem;
+}
+
+#inscripcion a,
+#ubicacion a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.7rem 1rem;
+  background: #0b3d2e;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+#inscripcion a:hover,
+#ubicacion a:hover {
+  background: #176b4b;
+}
