@@ -1,0 +1,3 @@
+Ideas sueltas para el sitio (no van al repositorio)
+- fondo con video?
+- contador regresivo
